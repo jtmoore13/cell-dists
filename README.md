@@ -114,7 +114,7 @@
 
 4. Enter them into an Excel file like this:
 
-    <img src="Images/figure7.png" width=300 height=350>
+    <img src="images/figure7.png" width=300 height=350>
 
     - Make sure to delete the last 4 rows of the cell column if you copy and pasted values from ImageJ.
 
@@ -125,7 +125,7 @@
 
 7.	Drag this folder into PyCharm under the word “Project”
 
-    <img src="Images/figure8.png" width=350 height=350>
+    <img src="images/figure8.png" width=350 height=350>
 
 8. Open `cell_dists.py` in Python.
 
