@@ -8,14 +8,14 @@
 
     - 	If you imaged 10 tumors, `ch00/` folder should contain ten different images of tumors, all of the channel 00.
 
-        <img src="images/figure1.png">
+        <img src="images/figure1.png" width=175 height=150>
 
 
 3. Open the Image app
     
     - Navigate to the "__Process__" tab, then select "__Batch__ -> __Macro...__"
 
-        <img src="images/figure2.png">
+        <img src="images/figure2.png" width=300 height=300>
 
     - In the new window, select "__Input__"
 
@@ -46,7 +46,7 @@
 
     -----
     
-    - Once you are ready to input code for the non-DAPI channels, this is the code to input:
+    - Once you are ready to input code for the non-DAPI channels, this is the new code to input:
         ```
         run("16-bit");
         setAutoThreshold("Default dark no-reset");
